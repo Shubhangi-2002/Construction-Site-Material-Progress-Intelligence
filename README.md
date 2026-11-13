@@ -1,5 +1,5 @@
 # Construction-Site-Material-Progress-Intelligence
-# ConstructionOS – Construction Progress & Material Management Analytics
+
 
 ### Project Overview
 
